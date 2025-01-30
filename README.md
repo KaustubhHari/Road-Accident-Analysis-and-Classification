@@ -7,8 +7,8 @@ Key Features
 
 Data cleaning and preprocessing                                              
                        Visualization of accident patterns over time 
-Statistical analysis of accident data 
-Machine learning models to predict accident severity 
+                         Statistical analysis of accident data 
+                        Machine learning models to predict accident severity 
 •	Random Forest Classifier
 •	Decision Tree Classifier
 •	Logistic Regression

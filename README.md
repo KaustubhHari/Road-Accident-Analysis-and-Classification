@@ -5,8 +5,8 @@ This project aims to analyze road accident data and predict accident severity ba
 
 Key Features
 
-Data cleaning and preprocessing 
-Visualization of accident patterns over time 
+Data cleaning and preprocessing                                              
+                       Visualization of accident patterns over time 
 Statistical analysis of accident data 
 Machine learning models to predict accident severity 
 •	Random Forest Classifier

@@ -13,5 +13,12 @@ Data cleaning and preprocessing
 •	Decision Tree Classifier                                                          
 •	Logistic Regression                                         
 
+Data Files
+
+The project uses three main CSV files for analysis:                                                      
+1.	AccidentsBig.csv - Contains detailed accident information.                                             
+2.	VehiclesBig.csv - Includes information about vehicles involved in accidents.                                                       
+3.	CasualtiesBig.csv - Contains information about the casualties in accidents.                                            
+
 
 
